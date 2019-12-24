@@ -9,7 +9,7 @@ $fuel = $fuel-2
 return $fuel
 }
 $sum = 0;
-foreach ($line in Get-Content "C:\Users\m-wie\OneDrive\Desktop\Advent_Of_Code\01_input.txt")
+foreach ($line in Get-Content "01_Advent_Of_Code.txt")
 {
 $sum += FuelNeeded($line)
 }

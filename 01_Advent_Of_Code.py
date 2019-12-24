@@ -1,6 +1,6 @@
 import math
 
-inputfile = open("C:\\Users\\m-wie\\OneDrive\\Desktop\\Advent_of_Code\\01_input.txt")
+inputfile = open("01_Advent_Of_Code.txt")
 
 sum = int()
 def FuelNeeded (mass):

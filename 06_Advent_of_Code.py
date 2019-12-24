@@ -1,4 +1,4 @@
-inp = open(r"C:\Users\m-wie\OneDrive\Desktop\Advent_of_Code\06_input.TXT")
+inp = open("06_Advent_of_Code.txt")
 
 inp_list_l = []
 inp_list_r = []

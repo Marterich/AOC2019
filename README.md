@@ -7,5 +7,5 @@ If there is a .txt file with the same name as the .py file, it is used as the so
 
 I used Python 3.8 and i tried to import no unneccesary modules if i could accomplish the same thing without them.
 
-As an IDE i used mainly Sublime Text because of it's speed and ease of use even though it has no "real" python console for example to provide input. 
+For an IDE i used mainly Sublime Text because of it's speed and ease of use even though it has no "real" python console for example to provide input. 
 If i ran into these limitations i switched over to Visual Studio Enterprise 2019

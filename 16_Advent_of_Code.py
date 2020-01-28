@@ -1,7 +1,7 @@
 from time import time
 start_time = time()
 
-data = list(map(int, open("16.txt").read()))
+data = list(map(int, open("16_Advent_of_Code.txt").read()))
 
 def part1(inp):
 
